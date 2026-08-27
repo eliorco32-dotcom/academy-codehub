@@ -195,7 +195,7 @@ export default function ContactPage() {
 
               <button
                 type="submit"
-                className="w-full rounded-xl bg-indigo-500 px-6 py-3.5 font-bold text-white shadow-lg transition duration-300 hover:-translate-y-1 hover:bg-indigo-400 hover:shadow-indigo-500/20"
+                className="w-full cursor-pointer rounded-xl bg-indigo-500 px-6 py-3.5 font-bold text-white shadow-lg transition duration-300 hover:-translate-y-1 hover:bg-indigo-400 hover:shadow-indigo-500/20"
               >
                 שליחת הודעה
               </button>
